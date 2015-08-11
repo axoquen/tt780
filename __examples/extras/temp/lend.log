@@ -1,0 +1,77 @@
+[2015-07-24 12:56:25] [lend_01.test] cd extras/ && ls -l lender.php | awk '{ print $9 }'   2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 12:56:25] [lend_01.test] resultado: lender.php
+[2015-07-24 12:56:25] [lend_01.test] __tt780_start
+[2015-07-24 12:56:25] [lend_01.test] cd extras/ && php lender.php lend=test session=cb7k0vb37hqdhatof3s40o0k26  2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 12:56:25] [lend_01.test] resultado: 
+[2015-07-24 12:56:29] [lend_01.test] cd extras/ && ls -l lender.php | awk '{ print $9 }'   2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 12:56:29] [lend_01.test] resultado: lender.php
+[2015-07-24 12:56:29] [lend_01.test] __tt780_start
+[2015-07-24 12:56:29] [lend_01.test] cd extras/ && php lender.php lend=test session=cb7k0vb37hqdhatof3s40o0k26  2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 12:56:29] [lend_01.test] resultado: 
+[2015-07-24 12:57:58] [lend_01.test] cd extras/ && ls -l lender.php | awk '{ print $9 }'   2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 12:57:58] [lend_01.test] resultado: lender.php
+[2015-07-24 12:57:58] [lend_01.test] __tt780_start
+[2015-07-24 12:57:58] [lend_01.test] cd extras/ && php lender.php lend=test session=cb7k0vb37hqdhatof3s40o0k26  2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 12:57:58] [lend_01.test] resultado: 
+[2015-07-24 12:58:07] [lend_01.test] cd extras/ && ls -l lender.php | awk '{ print $9 }'   2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 12:58:07] [lend_01.test] resultado: lender.php
+[2015-07-24 12:58:07] [lend_01.test] __tt780_start
+[2015-07-24 12:58:07] [lend_01.test] cd extras/ && php lender.php lend=test session=cb7k0vb37hqdhatof3s40o0k26  2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 12:58:07] [lend_01.test] resultado: 
+[2015-07-24 12:58:09] [lend_01.test] cd extras/ && ls -l lender.php | awk '{ print $9 }'   2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 12:58:09] [lend_01.test] resultado: lender.php
+[2015-07-24 12:58:09] [lend_01.test] __tt780_start
+[2015-07-24 12:58:09] [lend_01.test] cd extras/ && php lender.php lend=test session=cb7k0vb37hqdhatof3s40o0k26  2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 12:58:09] [lend_01.test] resultado: 
+[2015-07-24 12:58:19] [lend_01.test] cd extras/ && ls -l lender.php | awk '{ print $9 }'   2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 12:58:19] [lend_01.test] resultado: lender.php
+[2015-07-24 12:58:19] [lend_01.test] __tt780_start
+[2015-07-24 12:58:19] [lend_01.test] cd extras/ && php lender.php lend=test session=cb7k0vb37hqdhatof3s40o0k26  2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 12:58:19] [lend_01.test] resultado: 
+[2015-07-24 12:58:51] [lend_01.test] cd extras/ && ls -l lender.php | awk '{ print $9 }'   2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 12:58:51] [lend_01.test] resultado: lender.php
+[2015-07-24 12:58:51] [lend_01.test] __tt780_start
+[2015-07-24 12:58:51] [lend_01.test] cd extras/ && php lender.php lend=test session=cb7k0vb37hqdhatof3s40o0k26  2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 12:58:51] [lend_01.test] resultado: 
+[2015-07-24 13:12:22] [lend_01.test] cd extras/ && ls -l lender.php | awk '{ print $9 }'   2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 13:12:22] [lend_01.test] resultado: lender.php
+[2015-07-24 13:12:22] [lend_01.test] __tt780_start
+[2015-07-24 13:12:22] [lend_01.test] cd extras/ && php lender.php lend=test session=cb7k0vb37hqdhatof3s40o0k26  2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 13:12:22] [lend_01.test] resultado: 6e9b1962ce50d7bf490ce2007dcc6c87
+/var/www/html/lib/__examples/extras/temp/request.cb7k0vb37hqdhatof3s40o0k26
+[2015-07-24 13:12:22] [lend_01.test] => handler_file: 1
+[2015-07-24 13:12:22] [lend_01.test] => handler_query: lend_01.test
+[2015-07-24 13:12:22] [lend_01.test] cp /tmp/phpVx6r9h /var/www/html/lib/__examples/extras/temp/request.cb7k0vb37hqdhatof3s40o0k26
+[2015-07-24 13:12:22] [lend_01.test] resultado: 
+[2015-07-24 13:12:22] [lend_01.test] cd extras/ && php lender.php lend=test token=6e9b1962ce50d7bf490ce2007dcc6c87 session=cb7k0vb37hqdhatof3s40o0k26  2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 13:12:22] [lend_01.test] resultado: czoxODoiSGkgLCBpbSB0aGUgbGVuZGVyIjs=
+[2015-07-24 13:12:22] [lend_01.test] -----
+[2015-07-24 13:12:22] [lend_01.test] traduccion:Hi , im the lender
+[2015-07-24 13:12:55] [lend_01.test] cd extras/ && ls -l lender.php | awk '{ print $9 }'   2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 13:12:55] [lend_01.test] resultado: lender.php
+[2015-07-24 13:12:55] [lend_01.test] __tt780_start
+[2015-07-24 13:12:55] [lend_01.test] cd extras/ && php lender.php lend=test session=cb7k0vb37hqdhatof3s40o0k26  2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 13:12:55] [lend_01.test] resultado: 090c38cd82891e21978428a74bfd2deb
+/var/www/html/lib/__examples/extras/temp/request.cb7k0vb37hqdhatof3s40o0k26
+[2015-07-24 13:12:55] [lend_01.test] => handler_file: 1
+[2015-07-24 13:12:55] [lend_01.test] => handler_query: lend_01.test
+[2015-07-24 13:12:55] [lend_01.test] cp /tmp/phpXWBFqE /var/www/html/lib/__examples/extras/temp/request.cb7k0vb37hqdhatof3s40o0k26
+[2015-07-24 13:12:55] [lend_01.test] resultado: 
+[2015-07-24 13:12:55] [lend_01.test] cd extras/ && php lender.php lend=test token=090c38cd82891e21978428a74bfd2deb session=cb7k0vb37hqdhatof3s40o0k26  2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 13:12:55] [lend_01.test] resultado: czoxODoiSGkgLCBpbSB0aGUgbGVuZGVyIjs=
+[2015-07-24 13:12:55] [lend_01.test] -----
+[2015-07-24 13:12:55] [lend_01.test] traduccion:Hi , im the lender
+[2015-07-24 15:25:33] [lend_01.test] cd extras/ && ls -l lender.php | awk '{ print $9 }'   2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 15:25:33] [lend_01.test] resultado: lender.php
+[2015-07-24 15:25:33] [lend_01.test] __tt780_start
+[2015-07-24 15:25:33] [lend_01.test] cd extras/ && php lender.php lend=test session=cb7k0vb37hqdhatof3s40o0k26  2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 15:25:33] [lend_01.test] resultado: 16c721aed753e9b3201acfa1214d8a29
+/var/www/html/lib/__examples/extras/temp/request.cb7k0vb37hqdhatof3s40o0k26
+[2015-07-24 15:25:33] [lend_01.test] => handler_file: 1
+[2015-07-24 15:25:33] [lend_01.test] => handler_query: lend_01.test
+[2015-07-24 15:25:33] [lend_01.test] cp /tmp/php431n8y /var/www/html/lib/__examples/extras/temp/request.cb7k0vb37hqdhatof3s40o0k26
+[2015-07-24 15:25:33] [lend_01.test] resultado: 
+[2015-07-24 15:25:33] [lend_01.test] cd extras/ && php lender.php lend=test token=16c721aed753e9b3201acfa1214d8a29 session=cb7k0vb37hqdhatof3s40o0k26  2>&1 && cd /var/www/html/lib/__examples
+[2015-07-24 15:25:33] [lend_01.test] resultado: czoxODoiSGkgLCBpbSB0aGUgbGVuZGVyIjs=
+[2015-07-24 15:25:33] [lend_01.test] -----
+[2015-07-24 15:25:33] [lend_01.test] traduccion:Hi , im the lender

@@ -1,0 +1,1 @@
+<p><b>module_01.method_01</b>: <?=$parameters->getParameter('general') . ' - ' . $parameters->getParameter('type', 'unavailable') ?></p>

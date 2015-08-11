@@ -1,0 +1,1 @@
+<p><b>module_03.main</b>: <?=$parameters->getParameter('type') ?></p>
