@@ -111,7 +111,7 @@ $control_02 = new Control(array(
 //__test_calls($control_02);
 
 
-var_dump($control_02->execute('soap_1.verify', array('username' => 'angelr', 'password' => 'AXOtest82', 'project' => 'dms'), true));
+var_dump($control_02->execute('soap_1.verify', array('username' => 'angelr', 'password' => 'AXO', 'project' => 'dms'), true));
 
 
 printDump($GLOBALS['tt780']);
